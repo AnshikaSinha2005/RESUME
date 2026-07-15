@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshika</h1>
-<h3 align="center">AI/ML Engineer | Computer Vision | Software Engineering | B.Tech @ NIT Delhi</h3>
+<h3 align="center">AI/ML Engineer | Computer Vision | Software Engineering | B.Tech @ NIT Delhi | Diploma in Data Science @IITM</h3>
 
 <p align="center">
 Passionate about building intelligent systems that solve real-world problems using AI, Machine Learning, Computer Vision, and Data Science.
