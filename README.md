@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anshika Sinha</h1>
+<h1 align="center">Hi 👋, I'm Anshika</h1>
 <h3 align="center">AI/ML Engineer | Computer Vision | Software Engineering | B.Tech @ NIT Delhi</h3>
 
 <p align="center">
