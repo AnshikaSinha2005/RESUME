@@ -15,7 +15,7 @@ Passionate about building intelligent systems that solve real-world problems usi
 - 💼 AI/ML & Quantum Machine Learning Intern at **DRDO-SAG**
 - 🤖 Interested in AI, Computer Vision, LiDAR Perception, Data Analytics, and Software Engineering
 - 🌱 Currently working on **Autonomous Railway Navigation using Semantic Segmentation and Camera-LiDAR Fusion**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **anshikasinha23042005@gmail.com**
 
 ---
 
