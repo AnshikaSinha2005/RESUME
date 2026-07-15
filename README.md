@@ -110,7 +110,6 @@ Passionate about building intelligent systems that solve real-world problems usi
 - 99.78% Accuracy
 - TensorFlow
 - FastAPI
-- React
 - Google Cloud
 
 ---
@@ -143,14 +142,6 @@ Passionate about building intelligent systems that solve real-world problems usi
 
 ---
 
-## 📚 Currently Learning
-
-- Large Language Models (LLMs)
-- Agentic AI
-- Generative AI
-- Multimodal AI
-- Advanced Computer Vision
-- MLOps
 
 ---
 
